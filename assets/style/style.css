@@ -24,6 +24,8 @@ h1 {
   display: block;
   font-size: 50px;
   margin-top: 220px;
+  
+  white-space: nowrap;
 }
 a {
   display: inline-block;
